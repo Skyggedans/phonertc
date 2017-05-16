@@ -1,0 +1,39 @@
+{
+  "_npmVersion": "4.1.1",
+  "_phantomChildren": {},
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "PhoneRTC",
+  "devDependencies": {},
+  "directories": {},
+  "engines": {
+    "cordovaDependencies": {
+      "0.0.0": {
+        "cordova-android": ">=4.0.0"
+      },
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "license": "Apache-2.0",
+  "name": "phone-rtc",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.0"
+}
